@@ -11,7 +11,8 @@ Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 4) Dosen memberi tugas seba
 Ada dua bahan praktik dimodule 4 kali ini yaitu :<br>
 
 * Soal Latihan yang ada pada module praktikum 4
-![tugas](pict/Tugas%20Latihan.png)<br>
+![Soal](Pict/SoalLatihan.png)
+<br>
 
 * Berikut ini saya menulis syntax sekaligus menuliskan langkah-langkahnya sebagai berikut 
 
